@@ -1,0 +1,66 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Cloud / credentials
+credentials
+credentials.*
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Logs
+*.log
+logs/
+
+# Captured raw honeypot data
+data/raw/
+data/private/
+captures/
+pcap/
+*.pcap
+*.pcapng
+
+# Malware / suspicious binaries
+malware/
+samples/private/
+*.exe
+*.dll
+*.elf
+*.bin
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
