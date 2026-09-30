@@ -2,7 +2,6 @@
 
 > ¿Qué pasa realmente cuando expones un honeypot a Internet durante casi 24 horas?
 
-
 <p align="center">
   <a href="media/attack-map-live-demo.mp4">
     <img src="media/attack-map-preview.gif" alt="T-Pot Attack Map Live Demo" width="900">
@@ -11,6 +10,19 @@
 
 <p align="center">
   <sub>🎥 Tráfico real observado durante el experimento. Las IPs de origen y la IP del VPS han sido censuradas.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Eventos-105k%2B-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Duración-~24h-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coste-3.39€-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/T--Pot-24.04.1-red?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cowrie-34.745%20eventos-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Source%20IPs-248-informational?style=flat-square">
+  <img src="https://img.shields.io/badge/Hashes-19-lightgrey?style=flat-square">
 </p>
 
 ---
