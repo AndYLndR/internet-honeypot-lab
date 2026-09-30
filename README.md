@@ -2,9 +2,16 @@
 
 > ¿Qué pasa realmente cuando expones un honeypot a Internet durante casi 24 horas?
 
-[![T-Pot Attack Map - Live Demo](media/attack-map-preview.gif)](media/attack-map-live-demo.mp4)
 
-<p align="center"><sub>🎥 Tráfico real observado durante el experimento. Las IPs de origen y la IP del VPS han sido censuradas.</sub></p>
+<p align="center">
+  <a href="media/attack-map-live-demo.mp4">
+    <img src="media/attack-map-preview.gif" alt="T-Pot Attack Map Live Demo" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <sub>🎥 Tráfico real observado durante el experimento. Las IPs de origen y la IP del VPS han sido censuradas.</sub>
+</p>
 
 ---
 
@@ -412,7 +419,9 @@ Cowrie recibió actividad en `22/tcp` y `23/tcp`.
 
 ## 🎥 Attack Map en tiempo real
 
-[![Attack Map Live](media/attack-map-preview.gif)](media/attack-map-live-demo.mp4)
+<p align="center">
+  ▶️ <a href="media/attack-map-live-demo.mp4">Ver vídeo completo</a>
+</p>
 
 Para la versión pública:
 
@@ -579,6 +588,7 @@ Este repositorio tiene fines educativos, defensivos y de aprendizaje. No contien
 ---
 
 ## 👨‍💻 Autor
+**14nd3r**  
 
 Proyecto realizado como laboratorio práctico personal de ciberseguridad.
 
